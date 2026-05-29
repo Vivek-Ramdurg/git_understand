@@ -1,2 +1,1 @@
-# git_understand 
-New repo 
+# git_understand
